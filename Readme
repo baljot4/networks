@@ -1,1 +1,3 @@
 These two files allow a message to be sent and recieved! 
+Blocking is used for Synchronous messaging.
+Asynchronous messaging means that sender is not expecting a message so it is NON blocking
